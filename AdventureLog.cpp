@@ -3,10 +3,19 @@
 
 #include "AdventureLog.h"
 
-using namespace std;
+//using namespace std;
 
 int main()
 {
-	cout << "Hello CMake." << endl;
+	std::cout << "Hello CMake." << std::endl;
 	return 0;
+}
+
+AdventureLog::AdventureLog()
+{
+	
+}
+
+AdventureLog::~AdventureLog()
+{
 }

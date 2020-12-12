@@ -2,7 +2,13 @@
 // or project specific include files.
 
 #pragma once
-
 #include <iostream>
 
-// TODO: Reference additional headers your program requires here.
+
+
+class AdventureLog {
+	AdventureLog();
+
+	~AdventureLog();
+
+};

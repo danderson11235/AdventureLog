@@ -1,0 +1,20 @@
+# ninja log v5
+8	381	629449132	CMakeFiles/ServerLog.dir/ServerLog.cpp.obj	a04991b7fb16a956
+1	1413	629449133	CMakeFiles/AdventureLog.dir/AdventureLog.cpp.obj	78763b5f6d579c44
+5	1548	629449133	CMakeFiles/ClientAdventurer.dir/ClientAdventurer.cpp.obj	ba5a22cba015979e
+0	888	629449323	CMakeFiles/ClientAdventurer.dir/ClientAdventurer.cpp.obj	ba5a22cba015979e
+1	705	629449375	CMakeFiles/ClientAdventurer.dir/ClientAdventurer.cpp.obj	ba5a22cba015979e
+1	719	629449428	CMakeFiles/ClientAdventurer.dir/ClientAdventurer.cpp.obj	ba5a22cba015979e
+0	738	629449453	CMakeFiles/ClientAdventurer.dir/ClientAdventurer.cpp.obj	ba5a22cba015979e
+0	747	629449474	CMakeFiles/ClientAdventurer.dir/ClientAdventurer.cpp.obj	ba5a22cba015979e
+0	770	629449530	ClientAdventurer.exe	df89e757d3cfb70f
+0	851	629449643	CMakeFiles/ClientAdventurer.dir/ClientAdventurer.cpp.obj	ba5a22cba015979e
+4	169	629449697	CMakeFiles/ServerLog.dir/ServerLog.cpp.obj	a04991b7fb16a956
+170	898	629449697	ServerLog.exe	ea3ce1fd53f80850
+4	56	629449722	CMakeFiles/ServerLog.dir/ServerLog.cpp.obj	a04991b7fb16a956
+56	394	629449723	ServerLog.exe	ea3ce1fd53f80850
+1	690	629449723	CMakeFiles/ClientAdventurer.dir/ClientAdventurer.cpp.obj	ba5a22cba015979e
+1	694	629449817	CMakeFiles/ClientAdventurer.dir/ClientAdventurer.cpp.obj	ba5a22cba015979e
+695	935	629449817	ClientAdventurer.exe	df89e757d3cfb70f
+0	713	629452401	CMakeFiles/ClientAdventurer.dir/ClientAdventurer.cpp.obj	ba5a22cba015979e
+713	1002	629452401	ClientAdventurer.exe	df89e757d3cfb70f
