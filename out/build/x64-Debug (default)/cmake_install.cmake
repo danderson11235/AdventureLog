@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/dande/source/repos/AdventureLog/AdventureLog
+# Install script for directory: C:/Users/Dave Anderson/Documents/GitHub/AdventureLog
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/dande/source/repos/AdventureLog/AdventureLog/out/install/x64-Debug (default)")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/Dave Anderson/Documents/GitHub/AdventureLog/out/install/x64-Debug (default)")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/dande/source/repos/AdventureLog/AdventureLog/out/build/x64-Debug (default)/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Dave Anderson/Documents/GitHub/AdventureLog/out/build/x64-Debug (default)/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

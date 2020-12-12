@@ -1,3 +1,5 @@
-C:/Users/dande/source/repos/AdventureLog/AdventureLog/out/build/x64-Debug (default)/CMakeFiles/AdventureLog.dir
-C:/Users/dande/source/repos/AdventureLog/AdventureLog/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
-C:/Users/dande/source/repos/AdventureLog/AdventureLog/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Dave Anderson/Documents/GitHub/AdventureLog/out/build/x64-Debug (default)/CMakeFiles/AdventureLog.dir
+C:/Users/Dave Anderson/Documents/GitHub/AdventureLog/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Dave Anderson/Documents/GitHub/AdventureLog/out/build/x64-Debug (default)/CMakeFiles/ClientAdventurer.dir
+C:/Users/Dave Anderson/Documents/GitHub/AdventureLog/out/build/x64-Debug (default)/CMakeFiles/ServerLog.dir
+C:/Users/Dave Anderson/Documents/GitHub/AdventureLog/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
